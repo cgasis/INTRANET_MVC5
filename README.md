@@ -1,8 +1,6 @@
 # INTRANET_MVC5
 an Initial MVC 5 Project
 
-Id                             Version              Description/Release Notes                                                                                                                                                                                   
---                             -------              -------------------------                                                                                                                                                                                   
 Antlr                          3.4.1.9004           ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actio...
 EntityFramework                6.1.3                Entity Framework is Microsoft's recommended data access technology for new applications.                                                                                                                    
 jQuery                         2.1.4                jQuery is a new kind of JavaScript Library....                                                                                                                                                              
