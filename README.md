@@ -30,3 +30,4 @@ Newtonsoft.Json                8.0.1                Json.NET is a popular high-p
 System.Spatial                 5.7.0                Contains classes and methods that facilitate geography and geometry spatial operations. Targets .NET 4.0, Silverlight 4.0 or .NET Portable Lib with support for .NET 4.0, SL 5.0, Win Phone 8, Win Phone ...
 WebGrease                      1.6.0                Web Grease is a suite of tools for optimizing javascript, css files and images.                                                                                                                             
 
+ 
