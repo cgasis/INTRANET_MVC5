@@ -1,10 +1,11 @@
 # INTRANET_MVC5
 an Initial MVC 5 Project
 
-For missing nuget packages, try this:
+For initial pull, try these instructions:
 
-1. Open PMC, just type "update-package" and enter
-2. Right click the solution, Clean & Republish
+1. On PMC, type "update-package"
+2. Open manage nuget package on solution, re-install "Microsoft ASP.NET Web API 2.2"
+3. Clean, Rebuild the solution
 
 Disabling Nuget Package Restore:
 
