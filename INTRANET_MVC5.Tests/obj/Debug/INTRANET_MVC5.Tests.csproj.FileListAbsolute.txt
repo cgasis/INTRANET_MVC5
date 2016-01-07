@@ -72,11 +72,9 @@ C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\Microsoft.Da
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\Microsoft.Data.OData.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\Newtonsoft.Json.dll
-C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Net.Http.Formatting.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Spatial.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Helpers.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Http.dll
-C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Http.OData.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Http.WebHost.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Mvc.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Razor.dll
@@ -88,11 +86,9 @@ C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\INTRANET_MVC
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\Microsoft.Data.Edm.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\Microsoft.Data.OData.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\Newtonsoft.Json.xml
-C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Net.Http.Formatting.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Spatial.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Helpers.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Http.xml
-C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Http.OData.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Http.WebHost.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Mvc.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\System.Web.Razor.xml
