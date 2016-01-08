@@ -168,6 +168,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructure\Data\DbContext.cs" />
+    <Compile Include="Infrastructure\Data\DbInitializer.cs" />
+    <Compile Include="Infrastructure\Data\DbInitializerHelper.cs" />
+    <Compile Include="Infrastructure\Data\Entities\SampleData.cs" />
+    <Compile Include="Infrastructure\Data\IDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -261,6 +266,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Infrastructure\Attributes\" />
+    <Folder Include="Infrastructure\Config\" />
+    <Folder Include="Infrastructure\Data\Projections\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>

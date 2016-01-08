@@ -74,11 +74,11 @@ C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5\bin\zh-Hant\System
 C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5\obj\Debug\INTRANET_MVC5.csprojResolveAssemblyReference.cache
 C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5\obj\Debug\INTRANET_MVC5.dll
 C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5\obj\Debug\INTRANET_MVC5.pdb
-C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\obj\Debug\INTRANET_MVC5.csprojResolveAssemblyReference.cache
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\INTRANET_MVC5.dll.config
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\INTRANET_MVC5.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\INTRANET_MVC5.pdb
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\Antlr3.Runtime.dll
+C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\CoreEntityFramework.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\EntityFramework.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\EntityFramework.SqlServer.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\Microsoft.Data.Edm.dll
@@ -102,6 +102,7 @@ C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\WebGrease.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\WebMatrix.Data.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\WebMatrix.WebData.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\Antlr3.Runtime.pdb
+C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\CoreEntityFramework.pdb
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\EntityFramework.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\EntityFramework.SqlServer.xml
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\Microsoft.Data.Edm.xml
@@ -148,5 +149,6 @@ C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\ko\System.Spatial.resour
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\ru\System.Spatial.resources.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\zh-Hans\System.Spatial.resources.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\bin\zh-Hant\System.Spatial.resources.dll
+C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\obj\Debug\INTRANET_MVC5.csprojResolveAssemblyReference.cache
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\obj\Debug\INTRANET_MVC5.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5\obj\Debug\INTRANET_MVC5.pdb
