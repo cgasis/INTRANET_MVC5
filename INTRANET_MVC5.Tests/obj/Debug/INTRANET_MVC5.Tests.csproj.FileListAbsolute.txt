@@ -64,6 +64,7 @@ C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\zh
 C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5.Tests\obj\Debug\INTRANET_MVC5.Tests.csprojResolveAssemblyReference.cache
 C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5.Tests\obj\Debug\INTRANET_MVC5.Tests.dll
 C:\Chris\Documents\Projects\Chris\INTRANET_MVC5\INTRANET_MVC5.Tests\obj\Debug\INTRANET_MVC5.Tests.pdb
+C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\obj\Debug\INTRANET_MVC5.Tests.csprojResolveAssemblyReference.cache
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\INTRANET_MVC5.Tests.dll.config
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\INTRANET_MVC5.Tests.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\INTRANET_MVC5.Tests.pdb
@@ -127,6 +128,5 @@ C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\ko\System.Sp
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\ru\System.Spatial.resources.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
-C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\obj\Debug\INTRANET_MVC5.Tests.csprojResolveAssemblyReference.cache
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\obj\Debug\INTRANET_MVC5.Tests.dll
 C:\gitrepository\cgasis\INTRANET_MVC5\INTRANET_MVC5.Tests\obj\Debug\INTRANET_MVC5.Tests.pdb
